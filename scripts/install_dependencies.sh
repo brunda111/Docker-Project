@@ -8,4 +8,4 @@ unzip awscliv2.zip
 sudo ./aws/install
 
 
-aws s3 cp s3://mytestnewone/app.jar /home/ubuntu/app.jar
+aws s3 cp s3://newbucket-952363494811/app.jar /home/ubuntu/app.jar
